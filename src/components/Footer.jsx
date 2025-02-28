@@ -50,7 +50,7 @@ const Footer = () => {
         variants={fadeInUp}
         className="mt-8 text-center tracking-tighter text-neutral-500"
       >
-        &copy; Hanumant. All rights reserved.
+        &copy; 1996-2024. All rights reserved.
       </motion.p>
     </motion.div>
   );
